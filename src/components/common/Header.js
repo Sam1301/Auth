@@ -31,6 +31,7 @@ const styles = {
       widht: 0,
       height: 2
     },
+    marginBottom: 5,
     elevation: 2,
     position: 'relative'
   }
